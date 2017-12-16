@@ -1,0 +1,88 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1px;
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+.navbar-collapse {
+    margin-bottom: 0;
+    padding: 0;
+}
+
+#imageslider{
+    min-height: 400px;
+    background:url('../img/Sarees/IMG-20171103-WA0008.jpg');
+    text-align: center;
+}
+
+#myCarousel, #myCarousel .carousel-inner .item img{
+    min-height: 300px;
+    text-align: center;
+    height: 500px;
+    margin-bottom: 50px;
+}
+
+.saree-section, .saree-section img{
+    min-height: 300px;
+    text-align: center;    
+    width:100%;
+    /* max-width:1140px;  */
+    max-height: 400px;
+
+}
+
+
+
+
+
+
+
+#currentpath p{
+    text-align: center;
+    margin-bottom: 35px;
+    margin-top: 25px;
+}
+
+#currentpath h1{
+    text-align: center;
+}
+
+
+
+
+/*footer*/
+footer{
+    background-color:black;
+    color: yellow;
+    margin-top: 80px;
+    
+    
+}
+
+footer a , footer li{
+    text-align: left;
+    color: yellow;
+    line-height: 5px;
+    margin-bottom: 15px;
+}
+.footer-credit, .footer-credit a, .footer-credit p{
+    text-align: center;
+    color: yellow;
+    line-height: 2px;
+    margin-bottom: 40px;
+    margin-top: 70px;
+}
+
+
